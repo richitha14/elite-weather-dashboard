@@ -6,7 +6,7 @@ A premium responsive weather dashboard built with **Vite**, **React**, and moder
 
 [View the live app](https://elite-weather-dashboard.vercel.app)
 
-![Elite Weather Dashboard screenshot](docs/app-screenshot.png)
+![Elite Weather Dashboard screenshot](app-screenshot.png)
 
 ## Features
 
